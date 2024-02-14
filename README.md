@@ -3,7 +3,7 @@ Bienvenido/a a mi GitHub. Aquí encontrarás resoluciones de máquinas virtuales
 <br>
 ## Sobre mí
 🌐Desarrollador y entusiasta de la tecnología, centrado en el fascinante mundo de la ciberseguridad y las redes. <br> <br>
-💻 Actualmente, me encuentro finalizando mis estudios de ASIX con perfil en Ciberseguridad. <br> <br>
+💻 Actualmente, me encuentro finalizando mis estudios de ASIR con perfil en Ciberseguridad. <br> <br>
 
 ## Cualidades
 🛠️ Mis habilidades incluyen:
